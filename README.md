@@ -1,6 +1,7 @@
 # Cinemates20_BackEnd
-Di seguito il codice che costituisce il back-end del progetto CineMates20.<br><br>
-Il client mobile e la documentazione relativi a tale back-end è presente a questo <a href="https://github.com/lucaLP98/CineMates20_Mobile">link</a>
+In questa Repository viene descritto il codice relativo alle funzioni AWS Lambda, utilizzando il framework NodeJS, relativo al progetto CineMates20.<br><br>
+Il client Android e la relativa documentazione cui questa repository fa riferimento è presente al seguente <a href="https://github.com/lucaLP98/CineMates20_Mobile">LINK</a>
+
 <h1>SCHEMA ARCHITETTURA SERVER</h1>
 Il sistema utilizza un'architettura del tipo Servless, sfruttando le potenzialità offerte dai servizi AWS: API Gateway, Lambda, RDS.<br><br>
 
